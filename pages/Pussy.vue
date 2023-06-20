@@ -1,4 +1,5 @@
 ﻿<template>
+  <span>loooool enjoy</span>
 </template>
 
 <script>
