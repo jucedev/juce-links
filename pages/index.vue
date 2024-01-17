@@ -19,7 +19,7 @@
                 <a href="https://discordapp.com/users/184704561175330826">
                     <Icon name="line-md:discord" class="w-16 h-16 xl:w-20 xl:h-20 2xl:w-24 2xl:h-24 m-4 box-content place-content-center text-zinc-300"/>
                 </a>
-                <a href="http://twitter.com/jucedev">
+                <a href="http://twitter.com/jucevrc">
                     <Icon name="line-md:twitter" class="w-16 h-16 xl:w-20 xl:h-20 2xl:w-24 2xl:h-24 m-4 box-content place-content-center text-zinc-300"/>
                 </a>
             </div>
