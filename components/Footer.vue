@@ -18,11 +18,11 @@
                     </li>
                 </ul>
                 <span class="self-center text-md font-semi-bold whitespace-nowrap dark:text-zinc-200">
-                        Built With <Icon name="tabler:brand-nuxt" /> Nuxt and <Icon name="bxl:tailwind-css" /> Tailwind CSS.
+                        Built With <Icon name="tabler:brand-nuxt" /> <Icon name="bxl:tailwind-css" />
                 </span>
             </div>
             <span class="block text-sm text-zinc-500 sm:text-center select-none dark:text-zinc-400 mt-4 md:mt-0">
-                © 2023 
+                © 2024 
                 <a href="https://juce.gg/" class="hover:underline">juce.gg</a>. 
                 All Rights Reserved.</span>
         </div>
