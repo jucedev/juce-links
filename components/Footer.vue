@@ -16,7 +16,7 @@
                     </li>
                 </ul>
                 <span class="block text-sm text-zinc-500 sm:text-center select-none dark:text-zinc-400 mt-4 md:mt-0">
-                    © 2024
+                    © {{ new Date().getFullYear() }}
                     <a href="https://juce.gg/" class="hover:underline"> juce.gg </a>
                     . All Rights Reserved.
                 </span>
